@@ -50,11 +50,11 @@ Creating CRUD grid is a very common task in web development (CRUD stands for Cre
 
 	CRUD-with-PHP-and-MySQL: 12.0.1
 
-License
+#### License
 
 	MIT
 
-Author
+#### Author
 
 	Lotfar kaes
 
