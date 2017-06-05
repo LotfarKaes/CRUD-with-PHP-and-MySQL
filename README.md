@@ -41,3 +41,21 @@ Creating CRUD grid is a very common task in web development (CRUD stands for Cre
 ###### css /styleshite.css – all css file existed.
 ###### crud.php – used for reading records from the database. It uses an HTML table to display the data retrieved from the MySQL database. used for reading one or single record from database. It uses an HTML table to display the data retrieved from the MySQL database.
 ###### update.php – used for updating a record. It uses an HTML form which will be filled out with data based on the given “id” parameter. used for deleting a record. It accepts an “id” parameter and deletes the record with it. Once it executes the delete query, it will redirect the user to the crud.php page.
+
+#### Version
+
+	CRUD-with-PHP-and-MySQL: 12.0.1
+
+#### Current Version
+
+	CRUD-with-PHP-and-MySQL: 12.0.1
+
+License
+
+	MIT
+
+Author
+
+	Lotfar kaes
+
+
